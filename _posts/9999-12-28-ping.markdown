@@ -1,0 +1,7 @@
+The server can send ping requests like this:
+
+    >> <ping />
+
+That expects a response like this:
+
+    << <pong />
